@@ -13,7 +13,7 @@ web-doc(shortcode): Add new doc for the give_form_grid shortcode
 web-doc(admin-setting): Organize Export settings to be under Tools since Give 1.8 change
 -->
 
-## NECESSARY ITEMS
+## Necessary Items
 **User Story** 
 Describe what the user wants in regard to this doc in these terms:
 As a `<type of user>`, I want `<some goal>` so that `<some result>`.
@@ -27,7 +27,7 @@ As a `<type of user>`, I want `<some goal>` so that `<some result>`.
 |**New Url:**|The new URL location|*required* if organizing to a new location|
 |**Google Docs URL**|Provide a URL to your Google Docs draft|*required* if creating a new doc
 
-## ASSETS
+## Assets
 Provide screenshots and/or videos that already exist here if relevant
 
 ## Related Give Core/Add-on issues
