@@ -2,21 +2,20 @@
 
 <!-- 
 ## ISSUE TITLE:
-  * Type: All Docs issues have the same type prefix: `web-doc`
-  * Scope: Use the scope for what part of the plugin this doc affects, [see here for details](https://github.com/WordImpress/Give/wiki/Prefixes)
-  * Action: Use the imperitave voice to say what must be done. It's best to start with the words "Add", "Update", or "Organize"
+  * Type: All Docs issues have the same type prefix: `doc`
+  * Action: Use the imperitave voice to say what must be done. It's best to start with the words "add", "update", or "organize"
 -->
 <!--
 **Examples**
-web-doc(admin-setting): Update Advanced Setting to include Give Cache button
-web-doc(shortcode): Add new doc for the give_form_grid shortcode
-web-doc(admin-setting): Organize Export settings to be under Tools since Give 1.8 change
+doc: update Advanced Setting to include Give Cache button
+doc: add new doc for the give_form_grid shortcode
+doc: move Export settings doc under Tools since Give 1.8 change
 -->
 
 ## Necessary Items
 **User Story** 
 Describe what the user wants in regard to this doc in these terms:
-As a `<type of user>`, I want `<some goal>` so that `<some result>`.
+As a ________, I want ________ so that ________.
 
 **Doc Details**
 
